@@ -1,26 +1,22 @@
 {
-  "name": "passport-facebook",
+  "name": "passport-facebook-sock5agent",
   "version": "2.1.0",
-  "description": "Facebook authentication strategy for Passport.",
+  "description": "fork from passport-facebook, support sock5 agent",
   "keywords": [
     "passport",
     "facebook",
     "auth",
     "authn",
     "authentication",
-    "identity"
+    "identity",
+    "sock5"
   ],
-  "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-facebook.git"
+    "url": "git://github.com/lee715/passport-facebook.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-facebook/issues"
+    "url": "http://github.com/lee715/passport-facebook/issues"
   },
   "license": "MIT",
   "licenses": [
