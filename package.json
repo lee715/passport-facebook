@@ -1,6 +1,6 @@
 {
   "name": "passport-facebook-sock5agent",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "fork from passport-facebook, support sock5 agent",
   "keywords": [
     "passport",
@@ -27,7 +27,8 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "passport-oauth2": "1.x.x"
+    "passport-oauth2": "1.x.x",
+    "socks5-https-client": "^1.1.2"
   },
   "devDependencies": {
     "make-node": "0.3.x",
